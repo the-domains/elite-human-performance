@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Elite Human Performance]]></title>
         <description><![CDATA[Elite Human Performance]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/elite-human-performance/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 21:51:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 23:16:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/elite-human-performance/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea818010-f8df-4a03-b733-0fc9f275d276.jpg">]]></description>
-            <link>undefinedd78d2872-3474-4a49-a49d-bbb7ce11ad2e/index.html</link>
+            <title><![CDATA[Services]]></title>
+            <description><![CDATA[<article><h1>Services</h1><p>About Gary Moore</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d2d162174bb9bda832886300e3a14d40e8404697.jpg"></article>]]></description>
+            <link>https://thegrid.ai/elite-human-performance/d78d2872-3474-4a49-a49d-bbb7ce11ad2e/index.html</link>
             <guid isPermaLink="false">d78d2872-3474-4a49-a49d-bbb7ce11ad2e</guid>
-            <pubDate>Mon, 07 Mar 2016 21:50:45 GMT</pubDate>
+            <pubDate>Tue, 08 Mar 2016 23:15:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
